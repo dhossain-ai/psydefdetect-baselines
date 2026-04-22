@@ -1,0 +1,9 @@
+0 = No Defenses
+1 = Action Defenses
+2 = Major Image-Distorting
+3 = Disavowal Defenses
+4 = Minor Image-Distorting
+5 = Neurotic Defenses
+6 = Obsessional Defenses
+7 = High-Adaptive Defenses
+8 = Needs More Information

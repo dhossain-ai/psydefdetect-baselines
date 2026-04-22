@@ -1,0 +1,3 @@
+model,accuracy,macro_f1,weighted_f1
+tfidf_logistic_regression,0.3458,0.2122,0.4018
+tfidf_linear_svm,0.3968,0.2022,0.4309

@@ -1,0 +1,473 @@
+id,dialogue_id,current_text,predicted_label
+test_00001,ESConv_001,"yes, your are right, I cannot stay in house without paying bills yes, I am working but the income is not that much",2
+test_00002,ESConv_002,Hi I'm experiencing a lot of anxiety and depression because of constant severe back pain.,7
+test_00003,ESConv_003,hello,0
+test_00004,ESConv_003,"stressed out, anxious , this covid life is so tough cant find any work and just struggling with money and emotionally",0
+test_00005,ESConv_003,"yea they give me like 170 a week cant even cover rent and bills and to eat so on so its tough yea definitly weird times i live in a small town in vermont so only so much around, trying to get job at ski resort but no call back yet",0
+test_00006,ESConv_003,haha if i had the money id love too was a nice state,0
+test_00007,ESConv_003,yea makes sense but if everyone gets sick then what hha,0
+test_00008,ESConv_003,enjoy your evening same to you,0
+test_00009,ESConv_004,I try but the loneliness is the hard part,1
+test_00010,ESConv_004,It is just the lack of communication,1
+test_00011,ESConv_004,"Children can only share so much I chat with her, but the timing is off",1
+test_00012,ESConv_004,Find a place to live for awhile I have to take care of a legal matter,1
+test_00013,ESConv_005,I am thankful for your listening to me. It does make a big difference. I am in a better mood. Thank you!,4
+test_00014,ESConv_005,Thanks and have a great day!,4
+test_00015,ESConv_006,Good evening,8
+test_00016,ESConv_007,Yes,8
+test_00017,ESConv_008,Thanks for answering me. I need support for my depression.,2
+test_00018,ESConv_008,What can you tellme to help me adjust.,2
+test_00019,ESConv_010,I don't know. I'm shaking because I don't know what I'm going to do.,5
+test_00020,ESConv_010,"When you say work out a plan what do you mean? I have no job. I have been applying for jobs but I haven't received a callback or an offer of employment. Have you ever been in this situation? Also, I'm calling a helpline so Pride is not my issue.",1
+test_00021,ESConv_011,I don't know. I've been dealing with a lot this last month.,0
+test_00022,ESConv_011,"Ha I'm a mother of two small children, I'm always tired lol",0
+test_00023,ESConv_011,Yes I am thankful for every moment of peace. Idk honestly it always varies on how long my autistic toddler stays occupied XD,0
+test_00024,ESConv_011,"Exactly, when it gets quiet it gets suspicious XD Right now my little girl has her woody doll and bo peep doll making them kiss while she watches sherk lol. My 8 years old is engrossed in his cellphone.",3
+test_00025,ESConv_012,Hello.,0
+test_00026,ESConv_012,"I would say that is fairly accurate. Often times, I wish an asteroid would come down and begin the apocolypse. Something to break up the routine Don't you find life utterly boring and repetitive?",2
+test_00027,ESConv_012,"Well, I'm glad it helped you. I'm not just saying that. Being depressed is awful. What did it do for you? How so?",2
+test_00028,ESConv_012,"I understand. Well, I appreciate your time and advice. I just don't feel like you and I are understanding each other very well, though. Anyway, you made your bonus. I appreciate you trying to help me, though We got to talk for another 4 minutes though",2
+test_00029,ESConv_012,NO! DOnt you dare It is all k goodbye,2
+test_00030,ESConv_013,hi there,0
+test_00031,ESConv_013,"i have a couple of friends that i have talked to about it, but it just seems like i am screaming at a brick wall and nothing changes.",1
+test_00032,ESConv_014,I don't know. Maybe stuck at one place,2
+test_00033,ESConv_014,don't know what to do,2
+test_00034,ESConv_015,"I don't have any money to pay someone, my boyfriend tells me to quit having a pity party no one is coming to it and to just get over it. His comments and suggestions have not been helpful. My friends have tried to cheer me up but I can tell they are getting frustrated with me and I try to avoid them now.",2
+test_00035,ESConv_015,I don't mean to put obstacles in the way of your help but I live 25 miles from town and there is no public transportation here and I don't have a car. You have felt like this before? How long did it last? What did you do to get better?,7
+test_00036,ESConv_017,"Well, I am depressed. And it is Christmas. I am still having bad flashbacks from War in Iraq Can you help? Um, hello. Are you there?",5
+test_00037,ESConv_017,"Well, can you help me? Why did you step out?",5
+test_00038,ESConv_017,Lots of my Marine buddies have had PTSD. Women and men alike. Women are also joining the Marines....,5
+test_00039,ESConv_017,How does that help? I am interested in learning more....,5
+test_00040,ESConv_018,"Hi there, how are things?",0
+test_00041,ESConv_018,Do you have any suggestions what I might try to cheer her up? After that I can worry about myself,7
+test_00042,ESConv_018,"I thought about redecorating her house a little bit, they lived together for a long time maybe a change of scenery would do some good",7
+test_00043,ESConv_018,"Ok, well thanks for your help",7
+test_00044,ESConv_019,I suppose. I just worry that I will make them sad too. It's hard time for everyone.,7
+test_00045,ESConv_019,That is true. I should be brave enough to find out if he will be there when the chips are down. I am going to do it,0
+test_00046,ESConv_019,Thank you for supporting me.,0
+test_00047,ESConv_020,I appreciate that! thank you.,0
+test_00048,ESConv_021,They do. They wear masks while at work but they still have boyfriends and they don't wear mask with friends or boyfriends.,6
+test_00049,ESConv_021,"Yes, and they are young so they do not understand how important it is to practice social distancing and wear a mask. We have had so many covid tests. Luckily they have all been negative.",6
+test_00050,ESConv_021,I had one poor coworker get exposed to covid twice. She has been gone off and on for over 2 months. My husband does construction and has been laid off for a couple of months. Construction has gone down because of the pandemic. Everyone has put a halt to projects.,4
+test_00051,ESConv_022,I have used Facebook messenger a lot so the visual side is easy. I am able to see my new granchild...that helps,2
+test_00052,ESConv_023,hrm...that's a good point! i hadn't thought of it that way,1
+test_00053,ESConv_023,yes i agree,1
+test_00054,ESConv_023,thank you you too! where are you located out of. i'm in virginia usa,1
+test_00055,ESConv_024,Hello I am here to talk about my overall daily stresses,7
+test_00056,ESConv_025,Hi,0
+test_00057,ESConv_025,That is really nice to say. I guess I am also just scared to go for something and have it not be as fulfilling as I thought,8
+test_00058,ESConv_025,"Yeah. It is a big decision, though. Thanks for talking it out with me",8
+test_00059,ESConv_025,Bye,8
+test_00060,ESConv_026,"Yes, I tested positive for the Covid virus on Wednesday.",6
+test_00061,ESConv_026,"I was fighting it, but Covid won this week!",6
+test_00062,ESConv_027,due to winter i am not doing any workouts and not yet all interested to do any,3
+test_00063,ESConv_028,I'm feeling pretty awful... I've been down and depressed for months now. It's hard to get through the days.,7
+test_00064,ESConv_028,It's definitely nice to know that other people are having similar emotions as me.,8
+test_00065,ESConv_028,I agree. I feel like I have a bunch of new ideas to start feeling better. I appreciate you talking to me.,8
+test_00066,ESConv_029,i like to watch soccer and basketball,7
+test_00067,ESConv_029,Yes I always pray he makes everything better I hope you have a very Merry Christmas may God bless u and your family,0
+test_00068,ESConv_030,"I mean things do typically work themselves out, they always do....but I just can't get out of this rut I've been in. Well I lost my job because my GF had texted me saying she didn't want to be with me anymore....and I just couldn't handle it. Then I just started going downhill from there.....have had difficulty finding another job, or trying to replace lost income.",7
+test_00069,ESConv_030,I have an appointment scheduled with a Doctor on Tuesday actually.... I made a call the other day....which was difficult in and of itself,7
+test_00070,ESConv_031,2 of the children are younger so they do not realize it but the other child is older and definitely notices.,7
+test_00071,ESConv_032,Hello there. I am feeling a bit down.,0
+test_00072,ESConv_033,"Thanks. But I'm really not that strong. It's really exhausting and overwhelming. My depression and anxiety are through the roof, and honestly, I'm not sure how long I can keep this up.",6
+test_00073,ESConv_034,"if you were in my shoes, what would you do if you broke up with a serious gf/bf",7
+test_00074,ESConv_034,well tahnk you for your time. take care.,3
+test_00075,ESConv_035,I do have some family members with depression.,8
+test_00076,ESConv_035,I'm worried about the stigma of going to a shrink.,8
+test_00077,ESConv_035,No thank you. I think I have some strategies to move forward.,8
+test_00078,ESConv_036,"Wow, what sorts of things have you sold?",7
+test_00079,ESConv_037,"Yeah, I dealt with my heavy drinking and drug use problems at the beginning of the pandemic",6
+test_00080,ESConv_038,Sometimes I'm afraid of being myself because I don't want to annoy people,4
+test_00081,ESConv_039,No not really. I just finished the semester,7
+test_00082,ESConv_040,"I'm alright, just feeling a bit depressed.",0
+test_00083,ESConv_040,Yes I could do that. I was thinking about ordering a Thanksgiving Platter for 2 people so I could have some leftovers from a restaurant that I really like in my town. They do holiday specials.,8
+test_00084,ESConv_040,Thank you. I'm trying. I really miss my parents.,8
+test_00085,ESConv_041,I could try distracting myself. But my main worry is what if my parents catch corona-virus? The thought makes me very nervous and depressed.,3
+test_00086,ESConv_041,I am in mid-west Canada and it's snowing like crazy. Winter has arrived already with full force. Going out is not an option So I am trying to watch some movies or study some research papers for my semester exams But there are many disturbances and I can't focus,3
+test_00087,ESConv_041,Good to know about your recovery. Thanks for the information. Is COVID as bad as it sounds?,7
+test_00088,ESConv_042,"Hi, I'm just wanting to talk about my sadness that happens every now and then. Sometimes at night, (and only at night) I get in these super depressive moods and have almost mental breakdowns about everything in my life. But it doesn't happen all the time... only sometime and I don't know why",7
+test_00089,ESConv_042,"Yeah exactly. Where I live, we just had daylight savings so it gets dark around 5:30 PM and it feels like my days are just wasted",7
+test_00090,ESConv_042,"Yeah that is good advice. I definitely need to work on getting myself up earlier in the mornings, I've just come so accustomed to my current sleep schedule. And in all honesty, I haven't tried a therapist yet... I'm scared it will be hard to open up to a stranger",7
+test_00091,ESConv_042,Yeah that's true I have heard of BetterHelp. Maybe I should reach out on one of those platforms when I feel like I am going into one of my depressive episodes.,7
+test_00092,ESConv_043,Work is a good distraction from life.,5
+test_00093,ESConv_043,Work can set you free from your own thoughts,6
+test_00094,ESConv_044,"I live in such a populous area, I am afraid to. Especially with warmer temperatures coming.",8
+test_00095,ESConv_044,Thanks. It feels good.,7
+test_00096,ESConv_045,I live in a more rural area that has moved into our highest risk tier for Covid. They just seem to be making all the wrong choices amongst our local schools and other agencies.,6
+test_00097,ESConv_045,"The middle school is still in person 100% of the time. There have been >30 cases, most in the last 3 weeks, and they keep sending letters home stating that they don't believe the kids are getting sick in school. It's infuriating. So, I get mad, then I get anxious, then I get down...",6
+test_00098,ESConv_045,"It does. Like you said, crazy time for everyone.",6
+test_00099,ESConv_045,"Consider it done, lol! I'm gonna log out now, but you did give me a couple points to consider that would be better than dwelling on the hopelessness. Stay safe where you are.",6
+test_00100,ESConv_046,I have not really met anyone like a friend but I do Zoom daily with family at home. I do pray alot.,6
+test_00101,ESConv_046,Much love to you and stay safe! You were great!;) Have an awesome day!,3
+test_00102,ESConv_047,I believe that I can get over this time in my life but I need support.,7
+test_00103,ESConv_047,My husband has cancer. I have been really depressed.,2
+test_00104,ESConv_047,I know I will snap out of it and get my strength back. I always bounce back.,2
+test_00105,ESConv_047,Thank you I guess I should be going,0
+test_00106,ESConv_048,"Yes, i automatically assume I'm valueless in the other persons eyes, no matter what they say or do to the contrary",7
+test_00107,ESConv_050,This pandemic doesn't help either. No gatherings with many people.,6
+test_00108,ESConv_050,How do I get over feeling like I'm dumping on her? I know she's family but i'm sure she has problems too.,7
+test_00109,ESConv_051,"yes,I have never talked about it with any of my friends not even the ones closest to me.....about 5 years ago when my daughter was 16 she was sexually assaulted while at a sleepover at her friend's house",7
+test_00110,ESConv_051,She was also in therapy for a time,7
+test_00111,ESConv_051,"I think it was beneficial,I just wished she continued on with it..she stopped because her therapist left the practice Thanks for the chat,but I got to go",4
+test_00112,ESConv_052,It a very bad year!,5
+test_00113,ESConv_053,"Too much politics behand the virus and helping the people. Florida is mandatory, but Georgia is lacks. Tennessee is mandatory but other states are not as caring.",5
+test_00114,ESConv_054,Hi!,0
+test_00115,ESConv_054,Usually I keep quiet but if I say something it will be what i do for family and how he doesn't help me or respect me,6
+test_00116,ESConv_054,Has this worked for any other people you supported ? talk to you later,5
+test_00117,ESConv_055,do you want to keep talking or should we wrap up? i could go either way,8
+test_00118,ESConv_055,I might go and have some breakfast It was great chatting :),8
+test_00119,ESConv_056,Maybe so but i was a real dickhead to her. She totally didnt swaweve it,8
+test_00120,ESConv_057,Oh yes all the timr,6
+test_00121,ESConv_057,I think you have helped step back. Sometimes when you are in the middle of it you can’t find a way out.,6
+test_00122,ESConv_058,"I'm doing alright, trying to keep in the holiday spirits. Feeling a bit down, due to my work situation",7
+test_00123,ESConv_059,"Yes, it has been. I just really feel lost.",7
+test_00124,ESConv_059,Construction,7
+test_00125,ESConv_059,Maybe. I'm looking for work from home jobs in the meantime while looking for jobs,7
+test_00126,ESConv_059,"Yes. it is. I know that we'll get through this whole thing, but in the meantime it's just so crazy making and anxiety inducing.",7
+test_00127,ESConv_060,"It's just constantly to many unknowns, and it feels like it's not even getting better.",8
+test_00128,ESConv_060,"No, I think that I'm good. Have a great night.",0
+test_00129,ESConv_061,hey too. Have got a mental problem need your support if you don`t mind,7
+test_00130,ESConv_061,I feel so anxious since i am not able to meet most of my family needs as i used to before covid,2
+test_00131,ESConv_061,"Wow, that is awesome. You mean deep breaths do help? How often do i need the breaths?",2
+test_00132,ESConv_061,Sure. My hope too. Goodbye,7
+test_00133,ESConv_062,Hello. Thanks for helping me today.,0
+test_00134,ESConv_062,"I'm feeling anxious about finding work and and impatient with the application process at many places I""ve applied.",7
+test_00135,ESConv_062,"Ugh getting accepted for a masters program sounds stressful. I'm thinking I can't go wrong by becoming a plumber or an electrician. Everyone always needs that, even with the pandemic.",7
+test_00136,ESConv_064,"Hi there. I'm seeking some support, maybe some advice in dealing with a situation at my work. I've got a new supervisor who is so different from my last one.",7
+test_00137,ESConv_064,"Yes. They have a Military background and bark orders, and change the way I'm working without being open to conversation. When I ask questions, they threaten my job. Telling me they ""Don't have to explain themselves!"" as they are my supervisor.",7
+test_00138,ESConv_064,I think you've given me some good advice. Thank you. I feel a little less anxious than I did.,3
+test_00139,ESConv_064,I appreciate it!,3
+test_00140,ESConv_065,I will have to look at that. I've not been in the job market for 25 years. I thought they may be able to provide some assistance in just where do I begin. 4 I'm a teacher at a private school. 4,6
+test_00141,ESConv_065,Well not as young as I once was - in my 40s. 5,6
+test_00142,ESConv_065,I hope so - thank you.,1
+test_00143,ESConv_066,"Yes, that's true. Maybe that will help me pass the time too when it is so hard to be at home. I would be working toward a long term goal.",7
+test_00144,ESConv_066,I think that would be a good idea.,7
+test_00145,ESConv_067,I fine now. The event happened 6 1/2 years ago.,7
+test_00146,ESConv_067,I have been using a CPAP for 6 years and have dramatically reduced my drinking. It is amazing how refreshed I am all day now compared with any day during that time even the days I didn't drink because there were overall health effects that stayed with me.,3
+test_00147,ESConv_067,I am working close to fulltime now and my social life is more rewarding.,3
+test_00148,ESConv_068,"Hi there, I am currently going through a kind of job crisis and I'm not sure how to move forward.",7
+test_00149,ESConv_069,I am dong good. How are you?,0
+test_00150,ESConv_069,Not yet. Not sure where to start.,0
+test_00151,ESConv_069,First I need to update my resume.,0
+test_00152,ESConv_070,hello,0
+test_00153,ESConv_070,nervous and anxious,0
+test_00154,ESConv_071,"OK, that sounds like a good idea.",7
+test_00155,ESConv_072,There are actually some great suggestions there. The naked idea is a classic and it did make me smile. I think I am aiming for perfection when I think I should try and relax and just give it my best shot. That does help actually!,1
+test_00156,ESConv_072,"Thanks for that. I think the key to this is confidence so I'll go with it. Feeling more relaxed about it all now,",1
+test_00157,ESConv_073,"I could definitely reduce my spending like going out less for fast food, cutting my Netflix and Hulu subscriptions, and prepare my own meals for the next week weeks, as I try to find a new job. This would definitely help with my concerns about income and financial security.",6
+test_00158,ESConv_073,"Thank you, this has really helped me overcome my anxiety and fears of the events from the past year!",6
+test_00159,ESConv_075,Yeah it's easier said than done. Btw I heard Biden might forgive student loans! Yay! Yeah cuz it bought a lot of items I needed so I'm happy I got them,5
+test_00160,ESConv_075,absolutely. the time will go by fast enough and it will be paid off. ill make sure not to run the credit cards so high next time,5
+test_00161,ESConv_076,I would love some words of encouragement,7
+test_00162,ESConv_076,yes,5
+test_00163,ESConv_076,I always want a situation where i work without anxiety and fear of being forloughed because of my last experience,5
+test_00164,ESConv_076,Enjoy the rest of your day.,5
+test_00165,ESConv_077,They barely acknowledge my presence and don't really talk to me except for an occasional hello,7
+test_00166,ESConv_077,"I know, I don't know why they act this way. is it something I have done. I'm stressed.",7
+test_00167,ESConv_077,I think I will. Would you recommend me buying coffee and doughnuts?,6
+test_00168,ESConv_077,yeah for my sanity. Thank you,7
+test_00169,ESConv_078,Can you elaborate on extensions please ? Not sure what it is ?,8
+test_00170,ESConv_078,Ahh ok . I will give them a call and check. What does going to town hall mean ?,8
+test_00171,ESConv_078,I am a real person ? Are you a real person ?,8
+test_00172,ESConv_078,Not sure how to end this conversation,8
+test_00173,ESConv_079,"dont think like that, it is very hard in that situation",3
+test_00174,ESConv_079,try to stay in your job whatever may happen,3
+test_00175,ESConv_079,yes i think so thankyou very muck much,3
+test_00176,ESConv_079,"oh sorry i forgot for some doubt, are you not able to subit it by your side",3
+test_00177,ESConv_080,Yes it is,7
+test_00178,ESConv_080,Any advice,7
+test_00179,ESConv_080,I’ve tried but that’s easier said then done.,7
+test_00180,ESConv_081,"My bank account went into the negative this morning. I also keep having abandonment issuess with my boyfriend and I was supposed to leave Friday for Dallas, but with my bank account in the negative, I am scared",5
+test_00181,ESConv_083,it makes me feel so depressed,7
+test_00182,ESConv_083,yes they are,1
+test_00183,ESConv_083,yes i can't afford our livelihood,1
+test_00184,ESConv_083,which makes me feel so depressed,1
+test_00185,ESConv_083,have a nice day for you too,0
+test_00186,ESConv_084,Hi. I’m feeling really depressed lately,7
+test_00187,ESConv_084,Thank you! You have been very helpful. I think that will be my goal! Start learning to say no and don’t feel guilty about it. I think I am going to lower my expectations from other people and just start treating people as they treat me!,1
+test_00188,ESConv_085,"I am not worried financially . I am feeling depressed by trying again and agian, never happened with me before",0
+test_00189,ESConv_085,I love my career just getting bit demotivated,0
+test_00190,ESConv_086,Think about the bad things that will happen if I lost my job. I have been only thinking about the bad..,1
+test_00191,ESConv_087,I am very sad about this country and my work situation. For 5 years. I work in accounting.,6
+test_00192,ESConv_087,"Plus, I have a 50 dollar a day spending habit on lottery tickets to one day hit it BIG Yes, I have a resume that I have not updated just yet. I have a college education and a CPA to boot, but I need one lucky break in life.",4
+test_00193,ESConv_088,"I've heard of that. Thanks, maybe I'll check it out.",2
+test_00194,ESConv_089,Trying hard to find some work It's been long time now. I am kind of tired or sick,4
+test_00195,ESConv_089,job I don't know where I am lacking behind,4
+test_00196,ESConv_090,"Yes, you are correct , So i home i like to listen some good music to reduce my tension DO like music? What type of music do u like",5
+test_00197,ESConv_090,Yes you are correct me too tried one time but i can't,0
+test_00198,ESConv_091,Yes I have been given what I can only describe as ridiculous feedback by my manager and it had annoyed me greatly. I'm thinking about complaining about it.,7
+test_00199,ESConv_091,perhaps I'm just making too much of a big deal about this. how would you react if someone gave you similar feedback in work?,4
+test_00200,ESConv_092,I have not told her yet. I do not want to get her into trouble and I want to have a good relationship with her.,5
+test_00201,ESConv_092,That's something I could try. I really care about my coworker and it makes me so angry that she treats me this way.,5
+test_00202,ESConv_092,I agree. Sometimes you just have to take a step back and have a conversation with someone not in the thick of it.,5
+test_00203,ESConv_093,I am having a lot of conflict with my boss at work.,7
+test_00204,ESConv_093,It is just a little scary since I don't have anything else set up,8
+test_00205,ESConv_093,I have and they just contacted her boss. Nothing changed after.,8
+test_00206,ESConv_094,hello,0
+test_00207,ESConv_094,I just feel very worried. There are no other jobs around and I don't know how I will provide for my family.,8
+test_00208,ESConv_094,Maybe I should explore what options there are.,8
+test_00209,ESConv_094,Thank you. I guess I have to try.,0
+test_00210,ESConv_095,I've made an accident at work in the warehouse 2 days ago and didn't report it. I have fear and anxiety that if management will find out I will get in trouble,1
+test_00211,ESConv_095,"I don't know now, I've just started there 1 month ago and probably I thought I will lose my job straight away",1
+test_00212,ESConv_095,"Yes I know and I regret it now, but I think to go report now it's too late",1
+test_00213,ESConv_096,I have but they are strapped at this time and really don't have much to help with currently,4
+test_00214,ESConv_096,No worries...as I understand.,4
+test_00215,ESConv_096,They are...and thank you for your concern as well.,1
+test_00216,ESConv_097,I've not looked for a job in 20 years!,1
+test_00217,ESConv_097,"I'm willing to do temp work, etc.. I just have to make enough $ to pay the main bills like mortgage, etc.. it makes me so afraid that I won't be able to do t hat",1
+test_00218,ESConv_098,Well I hear that their offices are closed and you have to do everything online - so not sure if they can even help me.,1
+test_00219,ESConv_099,I have not been using apps. I use websites and look for jobs there. It is making me feel like I am not qualified enough.,7
+test_00220,ESConv_099,Yes I am going to look. It will increase my chances of finding work. It doesn't help that I live with my parents and because I have no work I spend most of my time at home and get into arguments with them.,7
+test_00221,ESConv_100,"I am not sure. She is telling me things that by supervisor should tell me. She is saying ""He told me this..."".",3
+test_00222,ESConv_101,hi . god morning,0
+test_00223,ESConv_101,yea good but lil lazy could you please help me to be concentrated on work and new job preparation to get a job .,1
+test_00224,ESConv_102,I recently divorced after finding out my husband married another women in another country. He is has also been abusive for many years and is now trying to win me back. Im feeling anxiety and I feel like im losing my power again I contact him because we have children together but Im thinkin to just disconnect with him fully before he tries to lure me in and become abusive agian,2
+test_00225,ESConv_102,two months ago,2
+test_00226,ESConv_102,Thanks for your input It was a nice chatting with you today,1
+test_00227,ESConv_102,have a nice day,1
+test_00228,ESConv_103,yes and no. i agreed to work with him on the board when he asked me. he said he trusts me,3
+test_00229,ESConv_103,cuz the first time he asked me out i was helping him with the board. i think it might be a way for him to spend time with me and then work his way back in. not sure if he will or not though. time will tell,3
+test_00230,ESConv_103,yes,3
+test_00231,ESConv_104,am fine at least for now,7
+test_00232,ESConv_104,"yeah... i have not been able to meet with my boyfriend physically due to the corona lockdown, and when i finally got to see him last month i discovered that he is cheating on me.",7
+test_00233,ESConv_104,"there is nobody i can talk to about this, i dont really have friends and my siblings are busy with their lives",7
+test_00234,ESConv_104,"thanks so much for this, i feel a weight lifted off my mind",0
+test_00235,ESConv_104,thank you for calming words,0
+test_00236,ESConv_105,"i need som help, i feel so sad.",0
+test_00237,ESConv_105,"I think you are right, maybe i just need to take a pause in my life for now, yeah I like to sleep. Thanks for supporting me. I think I will try what you said today Maybe I will watch some movies and then take a nap what do you think? Are you here?",7
+test_00238,ESConv_106,"No actually, in fact today seemed to be starting better than any day this week. I support whatever she wants but right after Christmas is hard",4
+test_00239,ESConv_106,thank you. i really appreciate it. i will do the best i can i promise.,6
+test_00240,ESConv_107,hello,0
+test_00241,ESConv_107,ex-husband yes,2
+test_00242,ESConv_107,Yes very much so Do you have any advice?,2
+test_00243,ESConv_107,"Yes, the court right now. They are moving so slow with Covid. I'm just worried my kids will forget me. or not love me anymore.",2
+test_00244,ESConv_108,"Ok fine , it's so hard to get over someone after a breakup like this.",7
+test_00245,ESConv_109,yes. she was my rock.,7
+test_00246,ESConv_109,But im not sure how to survive in the time being. my life will be a disaster.,6
+test_00247,ESConv_110,I am very sad and depressed because of a recent breakup. How can I ever forget it and move on.,2
+test_00248,ESConv_110,"Yeah, I can see your point of view. I have been obsessed with our relationship. We had a fight and it was a verbal war between us and he wouldn't forgive me afterwards.",4
+test_00249,ESConv_111,"It is, I just can not wrap my head around it all",2
+test_00250,ESConv_111,"Yes he is, do you have any ideas to help me cope better with this",2
+test_00251,ESConv_111,I could imagine the pain i would feel if it was when we were married,2
+test_00252,ESConv_112,He wanted a younger woman. His new girlfriend is 63 He is 45,1
+test_00253,ESConv_112,"I thought it would be nice to have a younger man when we got married. He eventually told me he just married me for my money, and was waiting for me to pass so he could inherit all of it. He said he got tired of waiting, so he moved on to someone else.",1
+test_00254,ESConv_112,"What are those? I heard of them, but never used them. Most of my old friends are no longer around...",1
+test_00255,ESConv_112,why?,1
+test_00256,ESConv_113,My girlfriend and I recently broke up so it has got me a little down I'm glad that you're having a good weekend so far,7
+test_00257,ESConv_113,We were together for two years. It's been a pretty tough week but I've been trying to go on walks with my dog & whatnot to keep my mind off thigns things*,7
+test_00258,ESConv_113,"No, thank heavens. My government is handling things a bit better here in Canada. Being out of work is tough, but at the same time I get a bunch of time to myself.",7
+test_00259,ESConv_113,That's what I'm hoping for... It looks like there is finally light at the end of the tunnel.,7
+test_00260,ESConv_114,Sometimes I have suicidal feelings...,4
+test_00261,ESConv_114,"I have one friend who lives in my neighborhood, but I dont trust him much.",1
+test_00262,ESConv_114,I just want to kill myself already...,1
+test_00263,ESConv_114,She was such an important part of my life... I can't live on without her. She was the only thing that I actually cared for. How can you say my life is important without her?,1
+test_00264,ESConv_115,I feel sad,7
+test_00265,ESConv_115,im mad at myself for trusting him again,8
+test_00266,ESConv_115,he ghosted and he was trying to get with other girsl on tinder i wish he had the balls to actually do a proper break up he promised me he would never do that but ofcourse he lied,8
+test_00267,ESConv_116,fine i had a lot of reasons to give up on you but i still chose to stay hello how are you?,5
+test_00268,ESConv_116,"Faith isn't about everything turnig out okay. little level, because faith is aobut being okay no matter how things turn out.",5
+test_00269,ESConv_116,"this way of life was never chosen by me, it was my bad luck that it choose me yes ofcourse",5
+test_00270,ESConv_117,You really think playing hard to get will work?,3
+test_00271,ESConv_117,"Thanks for saying that, but I still have the problem of wanting to be in a relationship.",4
+test_00272,ESConv_117,True. What can I do to get over him in the meantime?,4
+test_00273,ESConv_117,Lol. I think I can do that!,4
+test_00274,ESConv_117,That's a good idea. I can do that.,4
+test_00275,ESConv_118,"Yes, you have a point. Maybe this will turn out to my favor. You have to fail to succeed sometimes.",4
+test_00276,ESConv_119,Yeah thank you for your help..I appreciate it.. I hope you have a wonderful day..Stay safe and healthy.,7
+test_00277,ESConv_120,yeah thankn you,2
+test_00278,ESConv_120,thank you,1
+test_00279,ESConv_121,Well technically it was a mutual agreement but i feel like I dont want this to happen So what are you up to? Hello? Are you there?,6
+test_00280,ESConv_121,Well thank so much. You really help me a lot with every single word Well i have to go. Ill talk to you later,4
+test_00281,ESConv_122,because I didn't trust him and I was always jelous,6
+test_00282,ESConv_122,"Yes, it's true. Thanks for the information I'm trying not to talk to him or think about him, because I feel better",1
+test_00283,ESConv_123,This month. We've been together off and on for over 17 years,7
+test_00284,ESConv_124,because we kind of flirt with each other,7
+test_00285,ESConv_124,so am i,0
+test_00286,ESConv_125,yes he wants me to know so that he doesn't feel guilty about it,3
+test_00287,ESConv_125,thank you,3
+test_00288,ESConv_126,we had enjoyment and romance,8
+test_00289,ESConv_126,i was doing good,8
+test_00290,ESConv_126,thank you,8
+test_00291,ESConv_127,Do you really think so?,7
+test_00292,ESConv_128,Hello,0
+test_00293,ESConv_128,Great advice. I think I’m going to start up taking yoga again and catch up on some books I’ve been wanting to read.,7
+test_00294,ESConv_128,How long do you think I should take a break for?,7
+test_00295,ESConv_129,I am feeling really sad and lonely right now. My boyfriend and I broke up and it was me who wanted it but now I regret breaking up and he doesn't want me back.,7
+test_00296,ESConv_129,I haven't really thought of that yet. He has a pretty short temper actually. I know he is really mad at me so I think he might want to yell at me and get his anger out before he could start being nice to me again.,4
+test_00297,ESConv_129,"Well, we are in a small town and he was popular and the cutest guy in our town. I liked being with someone so popular. He wasn't always nice to me and is why I wanted to be with someone else for a short time. He used to leave me at parties and go off with his friends sometimes.",4
+test_00298,ESConv_129,I have never thought of it this way. You are making a lot of good points that I never thought of before. When I think about him I miss the way I felt in terms of being popular. I don't really miss him as a person.,4
+test_00299,ESConv_130,"To be honest, I'd still be hurt if he told me. But now on top of that hurt, I feel disrespected... and everything I thought I knew about him is kind of crushed. We were together 6 years, and I always, ALWAYS believed he was the most honest, kind, ""stand up guy"" I've ever known.",3
+test_00300,ESConv_130,That is good advice. I haven't been eating or sleeping as well as I should since this all started. I'll work on that. --- Thank you so much for your time and help and kindness. :) I wish you a great weekend!,3
+test_00301,ESConv_131,"Yes, I am going to my mothers house to talk things over. I have to drive 3 hours away",7
+test_00302,ESConv_131,"yes, I know. family is always important during time like these",7
+test_00303,ESConv_131,"yes, i can always count on her to be there for me my younger brother is always there for me too",7
+test_00304,ESConv_131,i guess i'll go make myself a drink and try to calm some nerves,7
+test_00305,ESConv_131,"yea, its hard because ive dated her for over 5 years",0
+test_00306,ESConv_131,youve been a great help any more advice?,0
+test_00307,ESConv_132,It is because I do really miss her. I really hate that our fight got to that level to where we broke up,2
+test_00308,ESConv_132,Awww I hope so. Just like some people say...there are plenty of fish in the sea. Thank you for the advice. It was really helpful.,4
+test_00309,ESConv_133,she is married to a rich man,8
+test_00310,ESConv_133,she broke me down like a helpless bird i can over come from her memories,8
+test_00311,ESConv_133,"its okey, i will find by myself",8
+test_00312,ESConv_133,i will try to recover from it,8
+test_00313,ESConv_133,try to find the right way to get my way,8
+test_00314,ESConv_133,yes it is challenging,8
+test_00315,ESConv_134,I just wanted to talk about my recent heartbreak,4
+test_00316,ESConv_134,right about that,4
+test_00317,ESConv_135,ok perfect. that will keep my mind occupied,7
+test_00318,ESConv_136,What happens if I just can't ever get over it though? Right now it's hard to see any sort of way through these feelings.,1
+test_00319,ESConv_137,"My boyfriend has been cheating on me, He constantly denies it and I want to believe him, but my family also knows and thinks I need to end things.",0
+test_00320,ESConv_137,I haven't actually caught him myself.,4
+test_00321,ESConv_137,Exactly and he denies it. I just don't know what to do or who to believe.,4
+test_00322,ESConv_138,We had friends in common and I feel they liked her better than me.,2
+test_00323,ESConv_138,I will give it a go and see what happens. I will text you tomorrow to let you know how it went,1
+test_00324,ESConv_139,Yeah I feel so low,1
+test_00325,ESConv_139,"it's difficult though, to open up",1
+test_00326,ESConv_139,No you've been helpful thanks,1
+test_00327,ESConv_140,How have you coped with it?,7
+test_00328,ESConv_141,We use to hangout all the time go to movies eat at each others houses. But snice I didn't get the vaccine yet they don't invite me anymore. I see on Facebook where they are meeting and having dinner.,2
+test_00329,ESConv_141,O wow that's crazy. I will need to show them that for sure. I need to ask them if they had any problems from it.,2
+test_00330,ESConv_141,I am going to try that today forsure. I hope it helps them see where I am coming from.,2
+test_00331,ESConv_141,Yes they are really supportive and we have zoom calls each Friday night.,2
+test_00332,ESConv_142,Hello! How are you today?,0
+test_00333,ESConv_142,Friends and our relationships amongst one another. Two are arguing and I want to help both. We only can facetime each other because of Corona and it is taking a toll among our group.,7
+test_00334,ESConv_142,It has been around 4 months now. It started slowly and now has ramped up to where it's exploding and causing discourse among us all. One of my friends told a secret to another acquaintance outside of our group. My friend is raging over this which she should. trust was broken.,4
+test_00335,ESConv_142,I think this can be good because she IS a little hot headed. Goos advice! I think I will tell everyonr in our circle to fall back and let her come to us when she is ready.,4
+test_00336,ESConv_143,Not so good. I have conspiracy theorist as a friend who is now mad at me because I told her to pull up her mask while talking to me. We have been friends for 13 years I am hurt and confused that she still thinks this is a game. She thought Corona was fake until someone we know caught it. It is like she is mad she was wrong and is taking it out and lashing out at those who have been trying to persuade her the whole time... what do you think?,7
+test_00337,ESConv_143,She is 44! Too old for all this nonsense. She has a short temper.......I think I am going to have to separate myself from her for the duration of the virus and the cure. I cannot talk to her again unless she agrees to get vaccinated. She is all to careless.,7
+test_00338,ESConv_144,hi help to solve my problem,0
+test_00339,ESConv_144,my close friend made a mistake. she scolded for it and not speak to me at all,6
+test_00340,ESConv_144,I just helped her only but she refused me and hurt me,6
+test_00341,ESConv_144,"No, I will tell all the facts about it. but she cant believe me and hurt me more and it make me more emotion ok. I will try to recover from this situationm",6
+test_00342,ESConv_144,"Since she is close friend for more than20years, I cant tolerate it because she didn't accept her mistake I tend to rectify her mistake but she didn';t accept my voices at all",6
+test_00343,ESConv_145,Okay we will try bowling. Thank you for the help,0
+test_00344,ESConv_147,"Yes, lately my friends have been going through divorces and many have moved away.",7
+test_00345,ESConv_147,"Yes, me too.",6
+test_00346,ESConv_147,That's good. It seems this crisis is either a divider or a unifier. There's no in between.,6
+test_00347,ESConv_147,That's good to know. I should look into that. Thanks.,6
+test_00348,ESConv_148,because it's close to her death,7
+test_00349,ESConv_148,Probably will be difficult to find one now. I'll try fill my schedule so I always have something to do. And my mind won't be thinking so much of my friend,7
+test_00350,ESConv_148,Thank you. bye,0
+test_00351,ESConv_149,Yeah I'm really depressed. I just found out my buddy of 20 years is now posting that he believes Trump and that the election is being stolen from him. I thought I knew him but now I don't know.,4
+test_00352,ESConv_149,I tried but he says that he's sick and tired of Facebook and Twitter putting a muzzle on Trump and ever since he's been on Parler he now knows the truth It's like he doesn't believe science anymore,2
+test_00353,ESConv_149,Yeah he thinks it's wrong that Twitter is flagging his tweets and he's mad that Facebook are taking down these groups that he feels are telling the truth,2
+test_00354,ESConv_149,"That's true but I don't want to make this more complicated that it should be. But I used to date his wife so I'm sure in his state of mind, how he would take it if it were the two of us bringing this up.",2
+test_00355,ESConv_149,"Ok I see, good point. Anyway you gave me a lot to think about. I appreciate your help.",2
+test_00356,ESConv_150,I am doing pretty well. There's a beautiful sunset out my window. How are you?,0
+test_00357,ESConv_151,"Should I do it over txt, Phone, or in person?",4
+test_00358,ESConv_151,Thank you have a great night and a Merry Christmas!,4
+test_00359,ESConv_152,"I have this friend who is now on the opposite coast. We were out of touch for 15 years, but recently reconnected. We've been texting. But now he's demanding an apology, and it's completely unreasonable...",1
+test_00360,ESConv_152,"No, not at all. It's new stuff.",1
+test_00361,ESConv_152,"But recently, he was talking as if he was having symptoms as a result of having had COVID previously. So I asked, Oh, you had a positive COVID test? I didn't say it like I was challenging him - I just hadn't heard this before.",1
+test_00362,ESConv_152,"I don't need him, no... But he's funny, and I don't have too many people in my life right now. I just moved to a new state where I literally know no one.",3
+test_00363,ESConv_153,Thank you. You've been great. Have a nice holiday and new year! Those are two things I've tried to keep in mind and you've reinforced my instincts. Thanks again.,6
+test_00364,ESConv_155,im feeling pretty sad today,0
+test_00365,ESConv_155,yeah thats correct,0
+test_00366,ESConv_156,That's great advice. I will do that. I have a mutual friend that is a lawyer.,2
+test_00367,ESConv_157,Hey,0
+test_00368,ESConv_157,Agreed. I just hope that one day I can meet people and form actual friendships with them,3
+test_00369,ESConv_157,That's actually a great idea! I guess i don't know myself well enough or have any distinct hobbies that would draw me to anybody in particular. It's been great talking with you!,3
+test_00370,ESConv_158,yes but i am the bad one she turns everything around,2
+test_00371,ESConv_159,All of us feel the same way.,0
+test_00372,ESConv_159,I think we make it first and then include the family members.,7
+test_00373,ESConv_159,okay. Had some nice opinions from you. Thanks. Bye.,7
+test_00374,ESConv_160,thats great and no its not snowing its very cold thow merry christmas to you also,0
+test_00375,ESConv_160,no friends,6
+test_00376,ESConv_160,no im not currently I also think sometimes to myself that they don't answer because they think I'm asking for money,1
+test_00377,ESConv_160,my sister goes on runs in the morning time and says it relax her for the day i think i migh i played the piano when i was in highschool,8
+test_00378,ESConv_160,you to and thanks,8
+test_00379,ESConv_160,good bye,8
+test_00380,ESConv_161,Really? I do not understand the insecurities in this case,2
+test_00381,ESConv_161,I know right You have been helpful by just listening and giving your 2cents Thank you so much,4
+test_00382,ESConv_162,Hi I am really very angry with my friends for not inviting me,5
+test_00383,ESConv_162,"I didn't did any anything wrong to my friends but they are simply saying they forget me So they no need on me , I am not important person to them",5
+test_00384,ESConv_162,In my all events i am inviting them all but how they Why what happen..?,5
+test_00385,ESConv_163,"She bought it as a horse trailer. So she can both live in it when she goes on the rode and carry her horses too. But she hasn't even used it since she bought it months ago. Do you know how long we're supposed to chat for btw? road*, not rode. lol sorry Ah, 15 minutes...I see it says on the left.",1
+test_00386,ESConv_164,"I am not making much income with the COVID-19, either.",2
+test_00387,ESConv_164,"No, they don't know that I am in financial trouble myself. COVID-19 has wrecked my steady income levels.... Things were great, this time last year.",2
+test_00388,ESConv_164,"Well, I used to donate a LOT in year's past.",2
+test_00389,ESConv_164,The problem is that I am not sure it my friends are going to believe me; I am a well-to-do individual We can only hope for a better 2021 Not sure how quickly the markets rebound....,8
+test_00390,ESConv_164,"Well, I usually go to their get-togethers. Both of my friends are well-to-do.",8
+test_00391,ESConv_165,"Hello! Life is treating me fair, what about you?",0
+test_00392,ESConv_165,"Yes, not covid tho. Mostly, it's academics. It paralyses me.",4
+test_00393,ESConv_165,"I would say my grades is the most important part of my llife, so it's the only thing that worries me",4
+test_00394,ESConv_166,I do live with three of my friends so it's nice to have their support. I'm glad I'm not alone,5
+test_00395,ESConv_166,Yes! I am trying to get a job at a suicide hotline for the summer,5
+test_00396,ESConv_166,I try not to. Sometimes it's hard to put myself first,5
+test_00397,ESConv_166,It's good to hear I'm not alone in feeling this way,5
+test_00398,ESConv_166,That's a good point. I struggle with that.,5
+test_00399,ESConv_167,How are you doing today?,0
+test_00400,ESConv_167,"I'm feeling okay today, a bit anxious for my finals this week",0
+test_00401,ESConv_167,I think it might be the fear of failure that triggered it,6
+test_00402,ESConv_167,"I will do that, thank you for your help",7
+test_00403,ESConv_168,"I don't mind retaking it, really",3
+test_00404,ESConv_168,yeah. that's another thing. I havent told my therapist or even my parents yet that i failed,3
+test_00405,ESConv_169,I think that I need to research more to ace this out.,1
+test_00406,ESConv_169,"Yeah, tha is true. Thank you for taking the time to hear my grief. Good Grief.",1
+test_00407,ESConv_170,"Yes that is good advice, I try to find time for myself but time seems to disappear sometimes",3
+test_00408,ESConv_171,"I just can't, I fall behind on study because I played too much online games and didn't attend classes It's easy to say to try to relax :(",6
+test_00409,ESConv_172,How would I go about that?,5
+test_00410,ESConv_172,"okay, I can see the sense in that. Have you used them before, if so would you recommend putting everything on there or keeping it flexible? I do have a couple that i could contact, I've been feeling really embarrassed to contact them, like they might think I am being silly",5
+test_00411,ESConv_172,me too. Thanks,5
+test_00412,ESConv_173,My parents live in another country and they cannot come here to my place because they dont have a valid visa..,3
+test_00413,ESConv_174,Hi,0
+test_00414,ESConv_174,I think that's enough to start with. Hope it will work out. Thanks for all your help. byee,7
+test_00415,ESConv_175,"I keep trying, but it seems my nervousness from wanting to do well is clouding my mind and making it hard to study",7
+test_00416,ESConv_175,I like to lift weights for gaining muscle mass. Usually pushups are my favorite bodyweight exercise,7
+test_00417,ESConv_175,"I havent really no, should I?",7
+test_00418,ESConv_175,Thats a good point. I really like my job so I wouldnt like to lose it. But I feel like I should ask anyways. I mean the worst they can say is no right?,7
+test_00419,ESConv_176,I will look into it. I had to go back to work before I was ready because I was out for 3 weeks with Covid. And school is mostly all online so at least I don't have to go in (7),1
+test_00420,ESConv_176,"Yes, I still live at home :) So pretty much every day! If I can just get through this week I'll be able to rest a lot better I think. (10)",1
+test_00421,ESConv_177,I'm feeling really anxious about my future. I'm not doing as well in college as I want to.,7
+test_00422,ESConv_178,"I'm so stressed, my emotions and anxiety is through the roof",7
+test_00423,ESConv_178,I have a my masters thesis tomorrow and we have to do a presentation. A public speaking presentaion,7
+test_00424,ESConv_178,"I know, right! I know I have my material ready to present and feel confident, its just how she gives constructive criticism and that her decisions and 25% of my final grade",5
+test_00425,ESConv_178,"The last class I had with her she was very aggressive when I asked questions aloud. Almost if she was put out. Also told me that my bumper sticker that says ""stop heroin"" was ignorant.",5
+test_00426,ESConv_178,"now we are good, try it now",5
+test_00427,ESConv_179,I am stressed because I must learn through classes on ZOOM instead of a regular class.,7
+test_00428,ESConv_179,"I have a laptop, but I need it full screened for Excel and Zoom takes up too much space, so that is why I had it on my phone. But I think a second monitor is an excellent idea, thank you.",7
+test_00429,ESConv_179,"Yes, I think it's hard to concentrate when others are at home during covid. Nephews are learning from home as well, but they get breaks and they try to get my attention when I am trying to study.",7
+test_00430,ESConv_180,"Yeah, but taking into account my scores on homework, I don't think it's enought to pass the class",3
+test_00431,ESConv_180,"Yeah that's true, I just think it's not my learning style so it's a lot harder for me. I thought about waiting until things are normal enough to physically be able to go back to class before I try and finish my bachelors, but who knows when that will be",3
+test_00432,ESConv_181,"okay, i guess its good to know im not the only one how did you get thru it?",2
+test_00433,ESConv_181,yeah i guess your right,4
+test_00434,ESConv_181,"no thats all, thanks again for helping me",4
+test_00435,ESConv_182,I tried exercise to see if that would help. It hasn't really helped because the time I spend exercising I just think I could be studying.,7
+test_00436,ESConv_182,That's a good idea. Maybe I could make it a reward for a good grade on a test.,7
+test_00437,ESConv_182,I think it might too!,7
+test_00438,ESConv_183,just graduated university and my parents are pressuring me to pursue becoming a doctor,7
+test_00439,ESConv_183,Thank you. yeah i get that. but they should be happy for me. They cant make decisions for me all the time. let me free!!!,7
+test_00440,ESConv_184,I feel that I am blowing my future because I am just not scoring well on tests these days. I just don't feel motivated to work as hard as I know that I should.,7
+test_00441,ESConv_184,I do feel that part of my problem is that I am afraid to really open up about it. You are the first person I have really felt able to talk to.,3
+test_00442,ESConv_184,"Yes, it is really much more easy to write my problems down than to actually talk to people about them face to face.",3
+test_00443,ESConv_184,"Yes, that is a fantastic idea! Maybe I can find a renewed interest in the subject. I hope that I can because I really do not want my time studying to have been wasted.",3
+test_00444,ESConv_186,"I wish I were in your shoes! If I change majors now, I have to redo at least a year of school, maybe more. I don't think my parents want to pay for that.",7
+test_00445,ESConv_187,How am I going to catch up on my work?,7
+test_00446,ESConv_187,Thanks for the idea do you have any more tips?,7
+test_00447,ESConv_187,Bye!,0
+test_00448,ESConv_188,That is a great idea. I am sure I can get references. My boss loves me. He said he is looking to help me any way he can.,4
+test_00449,ESConv_188,Yes. i plan on doing that this afternoon. Thank you so much. I am feeling way more at ease. I hope you have a wonderful day.,4
+test_00450,ESConv_190,"Im trying not to be too hard on myself but it's really scary not knowing if i'll pass the next wave of exams Ill try asking my profs thats a good idea, they can probably give me some good guidance",8
+test_00451,ESConv_191,"Thanks, have you found a job?",7
+test_00452,ESConv_192,Hello. How are you?,0
+test_00453,ESConv_193,"I am also facing the real possibility of surgery which scares the heck out of me. I am! I have a severe auto immune disease called Ulcerative Colitis, and I am on immuno suppresant meds on top of that",6
+test_00454,ESConv_193,"My oldest yes, he seems to understand, he is 8.5 years old. Our youngest is only one so he doesn't understand any of this yet. He says he understands, but I'm not sure on just what level.",4
+test_00455,ESConv_194,I am doing alright. How are you?,0
+test_00456,ESConv_194,I have couple of close friends I can talk to.. but have not thought about doing so..,7
+test_00457,ESConv_194,"Yes, I will give it a try...",7
+test_00458,ESConv_194,Any other suggestion you might have?,0
+test_00459,ESConv_194,I don't have any hobby per say.. but I would like to travel new places..,0
+test_00460,ESConv_195,No. thanks,0
+test_00461,ESConv_195,Happy to chat with you again in future,0
+test_00462,ESConv_196,"I am not, this is a very hard time of the year for me.",7
+test_00463,ESConv_196,"I am sorry to hear that, I think your boyfriend made a big mistake leaving you, you seem like a very nice and sweet person.",5
+test_00464,ESConv_196,"That might be true, she really blew it with me, I am a good catch.",5
+test_00465,ESConv_197,Hello. I am so upset. It's ridiculous how things keep happening to people around me. I suppose my supporter is not here.,5
+test_00466,ESConv_197,Yeah. I get that She rented it to some guy and left before even getting some decent money so now she is stranded in Mexico with some guy who can't even afford to get her back,5
+test_00467,ESConv_197,My grand mother is ashamed of her daughter I am kind of left with a weird circumstance.,1
+test_00468,ESConv_197,Only reason she has a house is because I helped. And if I leave it. Everyone in my family said I would be irresponsible to let my mom lose it.,1
+test_00469,ESConv_198,"yeah, plus our relationship has been rocky for the past year. I think we are just loosing interest in eachother",7
+test_00470,ESConv_198,"yes, i could see that. We have discussed and decided to end things. Like I said, her family was planning on staying with us for xmas, so now it feels like we ruined xmas for everyone",7
+test_00471,ESConv_199,I really sad as my partner walked out on me. Any thoughts what could cheer me up?,7
+test_00472,ESConv_199,"It is still rather raw,I have mentioned to it to a few of my friends and they deeply symphatise with me but I feel there is nothing much they can do to help me.They are as shocked as me to be honest.",1
