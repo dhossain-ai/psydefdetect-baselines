@@ -1,0 +1,6 @@
+{
+  "experiment": "full_dialogue_word_1_3_svm",
+  "accuracy": 0.3914209115281501,
+  "macro_f1": 0.19968548968629374,
+  "weighted_f1": 0.4204633700734592
+}

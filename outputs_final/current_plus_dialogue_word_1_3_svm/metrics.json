@@ -1,0 +1,6 @@
+{
+  "experiment": "current_plus_dialogue_word_1_3_svm",
+  "accuracy": 0.4316353887399464,
+  "macro_f1": 0.204691753926099,
+  "weighted_f1": 0.44615714888605906
+}

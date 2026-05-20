@@ -1,0 +1,10 @@
+{
+  "experiment": "current_text_word_1_3_svm",
+  "accuracy": 0.5361930294906166,
+  "macro_f1": 0.2560871107526037,
+  "weighted_f1": 0.5297751538941642,
+  "input_mode": "current_text",
+  "feature_type": "word_1_3",
+  "classifier_type": "svm",
+  "description": "Current utterance only, word TF-IDF 1-3, Linear SVM"
+}

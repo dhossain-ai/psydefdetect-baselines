@@ -1,0 +1,6 @@
+{
+  "experiment": "current_plus_last3_char_3_5_svm",
+  "accuracy": 0.5254691689008043,
+  "macro_f1": 0.23486475604156742,
+  "weighted_f1": 0.5123343887084642
+}

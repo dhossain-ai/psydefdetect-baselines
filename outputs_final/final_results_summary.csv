@@ -1,0 +1,10 @@
+experiment,input_mode,feature_type,classifier_type,accuracy,macro_f1,weighted_f1,description
+m1_full_dialogue_word_1_2_logreg,full_dialogue,word_1_2,logreg,0.4477,0.2085,0.4535,"Milestone 1 baseline: full dialogue, word TF-IDF 1-2, Logistic Regression"
+m1_full_dialogue_word_1_2_svm,full_dialogue,word_1_2,svm,0.3968,0.2022,0.4309,"Milestone 1 baseline: full dialogue, word TF-IDF 1-2, Linear SVM"
+current_text_word_1_3_svm,current_text,word_1_3,svm,0.5362,0.2561,0.5298,"Current utterance only, word TF-IDF 1-3, Linear SVM"
+full_dialogue_word_1_3_svm,full_dialogue,word_1_3,svm,0.3914,0.1997,0.4205,"Full dialogue, word TF-IDF 1-3, Linear SVM"
+current_plus_dialogue_word_1_3_svm,current_plus_dialogue,word_1_3,svm,0.4316,0.2047,0.4462,"Current utterance plus full dialogue, word TF-IDF 1-3, Linear SVM"
+current_plus_last3_word_1_3_svm,current_plus_last3,word_1_3,svm,0.5737,0.2210,0.5251,"Current utterance plus last 3 turns, word TF-IDF 1-3, Linear SVM"
+current_plus_last3_word_1_4_svm,current_plus_last3,word_1_4,svm,0.5737,0.2113,0.5220,"Current utterance plus last 3 turns, word TF-IDF 1-4, Linear SVM"
+current_plus_last3_char_3_5_svm,current_plus_last3,char_3_5,svm,0.5255,0.2349,0.5123,"Current utterance plus last 3 turns, character TF-IDF 3-5, Linear SVM"
+current_plus_last3_word_char_svm,current_plus_last3,word_char,svm,0.5657,0.2431,0.5333,"Current utterance plus last 3 turns, combined word and character TF-IDF, Linear SVM"

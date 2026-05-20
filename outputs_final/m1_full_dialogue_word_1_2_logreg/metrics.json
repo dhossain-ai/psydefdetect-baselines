@@ -1,0 +1,6 @@
+{
+  "experiment": "m1_full_dialogue_word_1_2_logreg",
+  "accuracy": 0.4477211796246649,
+  "macro_f1": 0.20848343776244146,
+  "weighted_f1": 0.45351536735686765
+}
