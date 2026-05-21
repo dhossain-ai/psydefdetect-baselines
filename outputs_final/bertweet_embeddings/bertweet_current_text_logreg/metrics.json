@@ -1,0 +1,7 @@
+{
+  "experiment": "bertweet_current_text_logreg",
+  "model_name": "vinai/bertweet-base",
+  "accuracy": 0.5442359249329759,
+  "macro_f1": 0.25244343019784904,
+  "weighted_f1": 0.5405505433856138
+}

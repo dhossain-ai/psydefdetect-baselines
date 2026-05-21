@@ -1,0 +1,10 @@
+{
+  "experiment": "bertweet_current_plus_last3_logreg",
+  "model_name": "vinai/bertweet-base",
+  "accuracy": 0.4584450402144772,
+  "macro_f1": 0.25516963876728305,
+  "weighted_f1": 0.47494734771678276,
+  "input_mode": "current_plus_last3",
+  "classifier": "logreg",
+  "description": "BERTweet embeddings using current utterance plus last 3 turns"
+}

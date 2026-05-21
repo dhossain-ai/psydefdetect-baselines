@@ -1,0 +1,5 @@
+experiment,input_mode,classifier,accuracy,macro_f1,weighted_f1,description
+bertweet_current_text_logreg,current_text,logreg,0.5442,0.2524,0.5406,BERTweet embeddings using current utterance only
+bertweet_current_text_svm,current_text,svm,0.5308,0.2281,0.5185,BERTweet embeddings using current utterance only
+bertweet_current_plus_last3_logreg,current_plus_last3,logreg,0.4584,0.2552,0.4749,BERTweet embeddings using current utterance plus last 3 turns
+bertweet_current_plus_last3_svm,current_plus_last3,svm,0.4826,0.2491,0.4944,BERTweet embeddings using current utterance plus last 3 turns

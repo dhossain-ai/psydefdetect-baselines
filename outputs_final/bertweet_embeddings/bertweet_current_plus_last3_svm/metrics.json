@@ -1,0 +1,7 @@
+{
+  "experiment": "bertweet_current_plus_last3_svm",
+  "model_name": "vinai/bertweet-base",
+  "accuracy": 0.48257372654155495,
+  "macro_f1": 0.24913814080257582,
+  "weighted_f1": 0.4944367714640796
+}
