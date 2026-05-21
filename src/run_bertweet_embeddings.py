@@ -319,6 +319,7 @@ def main():
                     ("clf", LinearSVC(
                         class_weight="balanced",
                         C=1.0,
+                        max_iter=10000,
                     )),
                 ]),
             },
