@@ -3,3 +3,6 @@ transformers
 tqdm
 emoji
 sentencepiece
+scikit-learn
+joblib
+numpy
